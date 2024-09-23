@@ -1,5 +1,3 @@
-
-
 ---
 permalink: /
 title: "Yufei Chu's Academic Website"
@@ -11,7 +9,7 @@ redirect_from:
 
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
+    <meta charset="UTF-8"> <!-- 确保正确的字符编码 -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Yufei Chu's Academic Website</title>
     <style>
@@ -89,6 +87,3 @@ redirect_from:
 
 </body>
 </html>
-
-
-
