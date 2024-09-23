@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /conference/2022-12-01-pbl-variability-arm-sgp
 excerpt: 'This study investigates the spatial and temporal variability of the planetary boundary layer using Doppler lidar measurements at the ARM SGP supersite.'
-date: 2022-12
+date: 2022-12-17
 venue: 'AGU Fall Meeting'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022AGUFM.A35K1601C/abstract'
 citation: 'Yufei Chu, Zhien Wang, Min Deng, Guo Lin, Lulin Xue, Weiwei Li, Hyeyum Hailey Shin. (2022). "The Spatial and Temporal Variability of the Planetary Boundary Layer at the ARM SGP Supersite." <i>AGU Fall Meeting</i>, 2022, A35K-1601.'
