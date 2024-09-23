@@ -15,7 +15,7 @@ redirect_from:
     <title>Yufei Chu Homepage</title>
     <style>
         body {
-            font-family: 'Helvetica', cursive; /* More rounded and fluid handwritten-style font */
+            font-family: 'Patrick Hand', cursive; /* More rounded and fluid handwritten-style font */
             text-align: justify;
             padding: 20px;
             line-height: 1.6;
@@ -51,12 +51,12 @@ redirect_from:
         
         <p>2) Exploring the spatiotemporal evolution of the boundary layer and its influencing factors.</p>
         <div class="research-image">
-            <img src="images/C1.png" alt="C1" style="width: 300px; height: auto;">
+            <img src="images/C1.png" alt="C1" style="width: 500px; height: auto;">
         </div>
 
         <p>3) Developing new environmental sensing techniques, including fiber optics and non-destructive testing.</p>
         <div class="research-image">
-            <img src="images/P3.png" alt="P3" style="width: 300px; height: auto;">
+            <img src="images/P3.png" alt="P3" style="width: 500px; height: auto;">
         </div>
 
         <p>4) Applying machine learning to meteorological data processing, particularly in boundary layer studies.</p>
