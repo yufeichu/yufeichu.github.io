@@ -1,3 +1,48 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yufei Chu Homepage</title>
+    <style>
+        body {
+            font-family: 'Caveat', cursive; /* More rounded and fluid handwritten-style font */
+            text-align: justify;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .research-directions {
+            margin-left: 20px;
+            line-height: 1.8;
+        }
+        .research-directions p {
+            text-indent: 20px; /* Indentation for each research direction */
+        }
+        .research-image {
+            text-align: center;
+            margin-top: 10px;
+            margin-bottom: 30px;
+        }
+        .header-images {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .header-images img {
+            width: 300px; /* Adjust size as needed */
+            height: auto;
+            margin-right: 10px; /* Space between the two images */
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&display=swap" rel="stylesheet"> <!-- Import Caveat handwritten font from Google Fonts -->
+</head>
+<body>
+
+    <!-- Two header images placed at the top -->
+    <div class="header-images">
+        <img src="images/SBU.png" alt="SBU Logo">
+        <img src="images/SBU3.png" alt="SBU Logo 3">
+    </div>
+</body>
+</html>
 ---
 permalink: /
 title: "Yufei Chu's Academic Website"
