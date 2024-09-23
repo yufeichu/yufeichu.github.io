@@ -79,11 +79,10 @@ redirect_from:
         </div>
     </div>
 
-   # <!-- Footer with two images -->
-   # <div class="header-images">
-   #     <img src="images/SBU.png" alt="SBU Logo">
-   #     <img src="images/SBU3.png" alt="SBU Logo 3">
-   # </div>
+    <!-- Footer with two images -->
+    <div class="header-images">
+        <img src="images/SBU.png" alt="SBU Logo">
+    </div>
 
 </body>
 </html>
