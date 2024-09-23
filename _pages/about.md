@@ -15,7 +15,7 @@ redirect_from:
     <title>Yufei Chu Homepage</title>
     <style>
         body {
-            font-family: 'Patrick Hand', cursive; /* Example of a handwritten-style font */
+            font-family: 'Caveat', cursive; /* Example of a handwritten-style font */
             text-align: justify;
             padding: 20px;
             line-height: 1.6;
