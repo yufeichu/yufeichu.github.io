@@ -15,7 +15,7 @@ redirect_from:
     <title>Yufei Chu Homepage</title>
     <style>
         body {
-            font-family: 'Caveat', cursive; /* Example of a handwritten-style font */
+            font-family: 'Caveat', cursive; /* More rounded and fluid handwritten-style font */
             text-align: justify;
             padding: 20px;
             line-height: 1.6;
@@ -27,8 +27,13 @@ redirect_from:
         .research-directions p {
             text-indent: 20px; /* Indentation for each research direction */
         }
+        .research-image {
+            text-align: center;
+            margin-top: 10px;
+            margin-bottom: 30px;
+        }
     </style>
-    <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap" rel="stylesheet"> <!-- Import a handwritten font from Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&display=swap" rel="stylesheet"> <!-- Import Caveat handwritten font from Google Fonts -->
 </head>
 <body>
 
@@ -40,19 +45,27 @@ redirect_from:
     <p>Currently, our efforts are focused on:</p>
     <div class="research-directions">
         <p>1) Researching novel atmospheric sensing technologies, such as vehicle-mounted and airborne Raman and Doppler lidars.</p>
+        <div class="research-image">
+            <img src="images/P1.png" alt="P1" style="width: 800px; height: auto;">
+        </div>
+        
         <p>2) Exploring the spatiotemporal evolution of the boundary layer and its influencing factors.</p>
+        <div class="research-image">
+            <img src="images/C1.png" alt="C1" style="width: 300px; height: auto;">
+        </div>
+
         <p>3) Developing new environmental sensing techniques, including fiber optics and non-destructive testing.</p>
+        <div class="research-image">
+            <img src="images/P3.png" alt="P3" style="width: 300px; height: auto;">
+        </div>
+
         <p>4) Applying machine learning to meteorological data processing, particularly in boundary layer studies.</p>
+        <div class="research-image">
+            <img src="images/P4.png" alt="P4" style="width: 800px; height: auto;">
+        </div>
     </div>
 
 </body>
 </html>
 
-
-<div style="text-align: center;">
-    <img src="images/P1.png" alt="P1" style="width: 800px; height: auto; margin-right: 10px;">
-    <img src="images/C1.png" alt="C1" style="width: 300px; height: auto; margin-right: 10px;">
-    <img src="images/P3.png" alt="P3" style="width: 300px; height: auto; margin-right: 10px;">
-    <img src="images/P4.png" alt="P4" style="width: 800px; height: auto;">
-</div>
 
