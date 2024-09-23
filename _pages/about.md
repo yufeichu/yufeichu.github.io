@@ -50,9 +50,9 @@ redirect_from:
 
 
 <div style="text-align: center;">
-    <img src="images/YUFEI CHU.png" alt="Yufei Chu 1" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="images/YUFEI CHU.png" alt="Yufei Chu 2" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="images/YUFEI CHU.png" alt="Yufei Chu 1 Duplicate" style="width: 200px; height: auto; margin-right: 10px;">
-    <img src="images/YUFEI CHU.png" alt="Yufei Chu 2 Duplicate" style="width: 200px; height: auto;">
+    <img src="images/P1.png" alt="P1" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/C1.png" alt="C1" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/P3.png" alt="P3" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/P4.png" alt="P4" style="width: 200px; height: auto;">
 </div>
 
