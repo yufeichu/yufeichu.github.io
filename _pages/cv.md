@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-  - /CV
 ---
 
 {% include base_path %}
@@ -22,46 +21,37 @@ Work Experience
 ======
 
 **Research Scientist**  
-*Stony Brook University · Full-time*  
-Jan 2024 – Present ·
-New York, United States · On-site  
+  *Stony Brook University · Full-time*  
+  *Jan 2024 – Present 
+  *New York, United States · On-site  
 
 **Research Associate**  
-*Michigan State University · Full-time*  
-Dec 2022 – Jan 2024 · 1 year 2 months  
-East Lansing, Michigan, United States · On-site  
+  *Michigan State University · Full-time*  
+  *Dec 2022 – Jan 2024 · 1 year 2 months  East Lansing, Michigan, United States · On-site  
 
 **Postdoctoral Fellow**  
-*University of Colorado Boulder · Full-time*  
-Jun 2020 – Dec 2022 · 
-Boulder County, Colorado, United States  
-
-Focused on lidar atmospheric detection.  
-Skills: Algorithms · LiDAR  
+  *University of Colorado Boulder · Full-time*  
+  *Jun 2020 – Dec 2022 · Boulder County, Colorado, United States  
+  *Focused on lidar atmospheric detection.  
+  * Skills: Algorithms · LiDAR  
 
 **Project Manager**  
-*China National Building Material Company Limited · Full-time*  
-Aug 2013 – Aug 2014 ·
-Bengbu, Anhui, China  
-
-Project Manager at the R&D Center, Touch Screen Division of Anhui Fangxing Technology (Kaisheng Technology) Co., Ltd.  
-Skills: Human Resources (HR) · TP Design · Product Development  
+  *China National Building Material Company Limited · Full-time*  
+  *Aug 2013 – Aug 2014 ·Bengbu, Anhui, China  
+  *Project Manager at the R&D Center, Touch Screen Division of Anhui Fangxing Technology (Kaisheng Technology) Co., Ltd.  
+  *Skills: Human Resources (HR) · TP Design · Product Development  
 
 **Technical Manager**  
-*Shenzhen Lingxin Optoelectronics Co., Ltd · Full-time*  
-Aug 2009 – Jul 2013  
-Shenzhen, Guangdong, China  
-
-Responsible for TP design, research and development, and the introduction of new materials and technologies.  
-Skills: Research and Development (R&D) · Human Resources (HR) · TP Design  
+  *Shenzhen Lingxin Optoelectronics Co., Ltd · Full-time*  
+  *Aug 2009 – Jul 2013  Shenzhen, Guangdong, China  
+  *Responsible for TP design, research and development, and the introduction of new materials and technologies.  
+  *Skills: Research and Development (R&D) · Human Resources (HR) · TP Design  
 
 **Product Development Engineer**  
-*Nanjing Dianmian Optoelectronics Co., Ltd · Full-time*  
-Jul 2008 – Jul 2009  
-Nanjing, Jiangsu, China  
-
-Product engineer, responsible for BOM production, and facilitating communication between clients and various departments within the company.  
-Skills: Product Management · TP Design · Product Development  
+  *Nanjing Dianmian Optoelectronics Co., Ltd · Full-time*  
+  *Jul 2008 – Jul 2009  Nanjing, Jiangsu, China  
+  *Product engineer, responsible for BOM production, and facilitating communication between clients and various departments within the company.  
+  *Skills: Product Management · TP Design · Product Development  
 
 **Publications**
 ======
