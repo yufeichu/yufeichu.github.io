@@ -16,7 +16,7 @@ Education
 * Visiting Ph.D. in Atmospheric Science, University of Colorado Boulder, 2019-2020
 * M.S. in Optics, Yunnan University, 2017
 * B.S. in Applied Physics and Business Administration, Anhui University, 2010
-* 
+
 
 Work Experience
 ======
