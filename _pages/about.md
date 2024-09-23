@@ -50,12 +50,6 @@ redirect_from:
 </head>
 <body>
 
-    <!-- Header with two images -->
-    <div class="header-images">
-        <img src="images/SBU.png" alt="SBU Logo">
-        <img src="images/SBU3.png" alt="SBU Logo 3">
-    </div>
-
     <!-- Introduction and research description -->
     <h1>Welcome!</h1>
     <p>Hello, my name is Yufei Chu. I am a research scientist at the School of Marine and Atmospheric Sciences, Stony Brook University. My research focuses on atmospheric sensing using lidar, studying the spatiotemporal distribution of the boundary layer and its influencing factors, along with advanced environmental sensing technologies such as fiber optics and non-destructive testing.</p>
@@ -84,6 +78,12 @@ redirect_from:
             <img src="images/P4.png" alt="Machine Learning Applications" style="width: 800px;">
         </div>
     </div>
+
+   # <!-- Footer with two images -->
+   # <div class="header-images">
+   #     <img src="images/SBU.png" alt="SBU Logo">
+   #     <img src="images/SBU3.png" alt="SBU Logo 3">
+   # </div>
 
 </body>
 </html>
