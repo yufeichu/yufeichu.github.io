@@ -10,7 +10,7 @@ volume: '30'
 issue: '7'
 pages: '11892-11911'
 publisher: 'Optica Publishing Group'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+slidesurl: 'http://yufeichu.github.io/files/slides1_OE.pdf'
 paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-7-11892&id=470776'
 citation: 'Yufei Chu, Zhien Wang, Lulin Xue, Min Deng, Guo Lin, Hailing Xie, Hyeyum Hailey Shin, Weiwei Li, Grant Firl, Daniel F D’Amico, Dong Liu, Yingjian Wang. (2022). "Characterizing warm atmospheric boundary layer over land by combining Raman and Doppler lidar measurements." <i>Optics Express</i>. 30(7), 11892-11911.'
 ---
