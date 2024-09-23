@@ -15,7 +15,7 @@ redirect_from:
     <title>Yufei Chu Homepage</title>
     <style>
         body {
-            font-family: 'Caveat', cursive; /* More rounded and fluid handwritten-style font */
+            font-family: 'Helvetica', cursive; /* More rounded and fluid handwritten-style font */
             text-align: justify;
             padding: 20px;
             line-height: 1.6;
