@@ -10,6 +10,8 @@ volume: '129'
 issue: '3'
 pages: 'e2023JD039586'
 publisher: 'AGU'
+slidesurl: 'http://yufeichu.github.io/files/slides3_JGR.pdf'
+paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-7-11892&id=470776](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039586'
 citation: 'Guo Lin, Zhien Wang, Yufei Chu, Conrad L Ziegler, Xiao‐Ming Hu, Ming Xue, Bart Geerts, Sreenath Paleri, Ankur R Desai, Kang Yang, Min Deng, Jonathan DeGraw. (2024). "Airborne Measurements of Scale‐Dependent Latent Heat Flux Impacted by Water Vapor and Vertical Velocity Over Heterogeneous Land Surfaces During the CHEESEHEAD19 Campaign." <i>Journal of Geophysical Research: Atmospheres</i>. 129(3), e2023JD039586.'
 ---
 
