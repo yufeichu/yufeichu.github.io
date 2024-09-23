@@ -13,4 +13,10 @@ Our team uses ground-based and airborne lidar to measure aerosols, atmospheric w
 
 Currently, our efforts are focused on: 1) researching novel atmospheric sensing technologies, such as vehicle-mounted and airborne Raman and Doppler lidars, 2) exploring the spatiotemporal evolution of the boundary layer and its influencing factors, 3) developing new environmental sensing techniques, including fiber optics and non-destructive testing, and 4) applying machine learning to meteorological data processing, particularly in boundary layer studies.
 
+<div style="text-align: center;">
+    <img src="images/YUFEI CHU.png" alt="Yufei Chu 1" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/YUFEI CHU.png" alt="Yufei Chu 2" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/YUFEI CHU.png" alt="Yufei Chu 1 Duplicate" style="width: 200px; height: auto; margin-right: 10px;">
+    <img src="images/YUFEI CHU.png" alt="Yufei Chu 2 Duplicate" style="width: 200px; height: auto;">
+</div>
 
