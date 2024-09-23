@@ -1,14 +1,20 @@
 ---
-title: "Paper Title Number 1"
+title: "Characterizing warm atmospheric boundary layer over land by combining Raman and Doppler lidar measurements"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+permalink: /publication/2022-03-28-characterizing-warm-atmospheric-boundary-layer
+excerpt: 'This paper focuses on characterizing the warm atmospheric boundary layer (PBL) using simultaneous measurements from Raman and Doppler lidars.'
+date: 2022-03-28
+venue: 'Optics Express'
+volume: '30'
+issue: '7'
+pages: '11892-11911'
+publisher: 'Optica Publishing Group'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-7-11892&id=470776'
+citation: 'Yufei Chu, Zhien Wang, Lulin Xue, Min Deng, Guo Lin, Hailing Xie, Hyeyum Hailey Shin, Weiwei Li, Grant Firl, Daniel F D’Amico, Dong Liu, Yingjian Wang. (2022). "Characterizing warm atmospheric boundary layer over land by combining Raman and Doppler lidar measurements." <i>Optics Express</i>. 30(7), 11892-11911.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+PBL plays a critical role in the atmosphere by transferring heat, moisture, and momentum. The warm PBL has a distinct diurnal cycle, including daytime convective mixing layer (ML) and nighttime residual layer developments. For PBL characterization and process studies, simultaneous determinations of PBL height (PBLH) and ML height (MLH) are necessary. In this study, new approaches are developed to provide reliable PBLH and MLH measurements to characterize the warm PBL evolution. The approaches utilize Raman lidar (RL) water vapor mixing ratio (WVMR) and Doppler lidar (DL) vertical velocity measurements from the Southern Great Plains (SGP) atmospheric observatory, established by the Atmospheric Radiation Measurement (ARM) user facility. Compared to widely used lidar aerosol measurements for PBLH, WVMR provides a better trace for PBL vertical mixing.
+
+Cited by: 3
