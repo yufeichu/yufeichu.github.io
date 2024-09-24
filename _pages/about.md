@@ -37,7 +37,7 @@ redirect_from:
             margin-bottom: 20px;
         }
         .header-images img {
-            width: 250px; /* Adjust size as needed */
+            width: 800px; /* Adjust size as needed */
             height: auto;
             margin-right: 15px; /* Space between the two images */
         }
@@ -81,7 +81,7 @@ redirect_from:
 
     <!-- Footer with two images -->
     <div class="header-images">
-        <img src="images/SBU.png" alt="SBU Logo" style="width: 1000px;">
+        <img src="images/SBU.png" alt="SBU Logo">
     </div>
 
 </body>
