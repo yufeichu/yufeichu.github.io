@@ -81,7 +81,7 @@ redirect_from:
 
     <!-- Footer with two images -->
     <div class="header-images">
-        <img src="images/SBU.png" alt="SBU Logo">
+        <img src="images/SBU.png" alt="SBU Logo" style="width: 1000px;">
     </div>
 
 </body>
